@@ -1,13 +1,13 @@
-# clusters-ia
+# Machine Learning Nao Supervisionado em Cluster
 Modelos de Cluster em R e Python
 
-# Análise de Cluster
+## Análise de Cluster
 
 * Procedimento hierárquico – Dendrograma;
 * Procedimento Não hierárquico – K-means;
 * Procedimento Não hierárquico – TwoStep.
 
-# Market Basket
+## Market Basket
 
 As regras de associação são objetos combinam itens que ocorrem com determinada frequência em uma base de dados. Uma de suas típicas aplicação é a análise de transações de compra(market basket analysis). A partir de uma base de dados que armazena produtos comprados por clientes de um supermercado, é possível gerar regras de associação do tipo (fralda) (cerveja). Essa regra pode ser utilizada para indicar que os clientes que compram fraldas também compra cervejas.
 Esse algoritimo têm como premissa báscia encontrar elementos que implicam na presença de outros elementos em uma mesma transação, ou seja, eles tentam encontrar um relacionamento ou padrões frequentes entre conjunto de dados.
